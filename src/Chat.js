@@ -58,7 +58,7 @@ setInput("");
 <p className={`chat__message ${true &&  
 "chat__reciever"}`}>
     <span className="chat__name">Rishabh Sharma</span>
-    Hey welcome to Zomentum Chat!
+    Hi I am Rishabh and I welcome you to Zomentum Chat!
 
     <span className="chat__timestamp">
         2:20pm

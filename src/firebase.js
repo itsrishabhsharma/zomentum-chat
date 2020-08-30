@@ -1,3 +1,5 @@
+import firebase from "firebase";
+
 const firebaseConfig = {
     apiKey: "AIzaSyDUN394xxV27xlkLWJsmCYUjsTNhycuCBY",
     authDomain: "zomentum-chat.firebaseapp.com",
@@ -13,8 +15,9 @@ const firebaseConfig = {
 
   const db = firebaseApp.firestore();
 
-  const auth = firebase.auth.GoogleAuthProvider();
+  const auth = firebase.auth();
 
+  const provider = new firebase.auth.GoogleAuthProvider();
 
   export { auth, provider };
 

@@ -65,7 +65,9 @@
 .chat__body{
     flex: 1;
 
-    background-image: url("https://user-images.githubusercontent.com/15075759/28719144-86dc0f70-73b1-11e7-911d-60d70fcded21.png");
+    /* background-image: url("https://user-images.githubusercontent.com/15075759/28719144-86dc0f70-73b1-11e7-911d-60d70fcded21.png"); */
+
+    background-image: url("https://assets.website-files.com/5d9c347f1416aefa5128c8c3/5ddcfcd4d52c2ff063c7224a_about%20us%20our%20story%20zomentum.svg");
 
     background-repeat: repeat;
     background-position: center;
@@ -98,3 +100,7 @@
     display: none;
 }
 
+.chat__footer > .MuiSvgIcon-root{
+    padding: 10px;
+    color: gray;
+}
