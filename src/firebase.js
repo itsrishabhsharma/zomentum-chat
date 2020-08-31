@@ -1,13 +1,15 @@
 import firebase from "firebase";
 
-const firebaseConfig = {
-    apiKey: "AIzaSyDUN394xxV27xlkLWJsmCYUjsTNhycuCBY",
-    authDomain: "zomentum-chat.firebaseapp.com",
-    databaseURL: "https://zomentum-chat.firebaseio.com",
-    projectId: "zomentum-chat",
-    storageBucket: "zomentum-chat.appspot.com",
-    messagingSenderId: "829660876038",
-    appId: "1:829660876038:web:5554b85439d44982de6287"
+
+
+  const firebaseConfig = {
+    apiKey: "AIzaSyCvfpenyHTvHTXZxpE-3cv3rjBT7pBP2p4",
+    authDomain: "zomentum-chat-fd40e.firebaseapp.com",
+    databaseURL: "https://zomentum-chat-fd40e.firebaseio.com",
+    projectId: "zomentum-chat-fd40e",
+    storageBucket: "zomentum-chat-fd40e.appspot.com",
+    messagingSenderId: "947209398480",
+    appId: "1:947209398480:web:d31e049baf5d0245ea16d5"
   };
 
 
