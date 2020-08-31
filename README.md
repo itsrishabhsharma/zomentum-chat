@@ -2,9 +2,18 @@
 
 <h2>In this assessment I have built a Chat Application for Zomentum Frontend Problem Statement. </h2>
 
-<h3>1. React.js is used for frontend. </h3>
-<h3>2. Firebase is used for backend/Database for storing chat messages,user information etc. </h3>
+<h3>1. React.js is used for Frontend . </h3>
+<h3>2. Firebase is used for Backend/Database for storing chat messages, user information etc. </h3>
 <h3>3. Material Design/Material UI is used for avatars, icons, effects etc. </h3>
+
+
+<h2> Before knowing how to run</h2>
+<h4>Please checkout this short video tutorial and walkthrough of the application.</h4>
+https://drive.google.com/file/d/1QAhUbfsXk1BUNJRT-4FHSy7pDYOsFTaV/view?usp=sharing
+
+<h4>You can also view the screenshots of the working application from the link below.</h4>
+https://drive.google.com/drive/folders/1HJ-KOtHA4CwwYhpj0X5HYFZz37_IWAAD?usp=sharing
+
 
 
 
@@ -13,8 +22,8 @@
 <h3>1. Download the zip folder. </h3>
 <h3>2. Open the folder in vscode .</h3>
 <h3>3. npm install and npm start </h3>
-<h3>4. As the login page appears click on <b>SIGN IN WITH GOOGLE </b> button. </h3>
-<h3>5. Login using gmail id </h3 >  zomentumchat@gmail.com <h3> and password </h3>  zozozozo <h3> as these credentials are connected to my google firebase for authorization.</h3>
+<h3>4. As the login page appears click on "SIGN IN WITH GOOGLE" button. </h3>
+<h3>5. Login using gmail id </h3 >  zomentumchat@gmail.com <h3> and password </h3>  zozozozo <h3> as these credentials are connected to google firebase for gmail authorization.</h3>
 
 
 
