@@ -1,6 +1,6 @@
 <h1> Zomentum-Chat App</h1>
 
-<h2>In this assessment I have built a Chat Application for Zomentum. </h2>
+<h2>In this assessment I have built a Chat Application for Zomentum Frontend Problem Statement. </h2>
 
 <h3>1. React.js is used for frontend. </h3>
 <h3>2. Firebase is used for backend/Database for storing chat messages,user information etc. </h3>
