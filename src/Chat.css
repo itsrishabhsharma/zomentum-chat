@@ -40,7 +40,7 @@
 
 .chat__reciever {
     margin-left: auto;
-    background-color: #dcf8c6;
+    background-color: #51d3b3;
 
 }
 
@@ -64,7 +64,7 @@
 
 .chat__body{
     flex: 1;
-    background-image: url("https://assets.website-files.com/5d9c347f1416aefa5128c8c3/5ddcfcd4d52c2ff063c7224a_about%20us%20our%20story%20zomentum.svg");
+    background-image: url("https://images.unsplash.com/photo-1531685250784-7569952593d2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1934&q=80");
 
     background-repeat: repeat;
     background-position: center;

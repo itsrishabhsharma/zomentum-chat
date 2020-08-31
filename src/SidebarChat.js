@@ -1,5 +1,4 @@
 
-
 import React, { useEffect, useState } from "react";
 import "./SidebarChat.css";
 import { Avatar } from "@material-ui/core";
