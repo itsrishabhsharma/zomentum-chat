@@ -10,9 +10,13 @@
 
 <h1>How to run?</h1>
 
-<h3>1. Download the zipped folder. </h3>
+<h3>1. Download the zip folder. </h3>
 <h3>2. Open the folder in vscode .</h3>
 <h3>3. npm install and npm start </h3>
+<h3>4. As the login page appears click on <b>SIGN IN WITH GOOGLE </b> button. </h3>
+<h3>5. Login using gmail id <b> zomentumchat@gmail.com </b> and password <b> zozozozo </b> as these credentials are connected to my google firebase for authorization.</h3>
+
+
 
 
 
