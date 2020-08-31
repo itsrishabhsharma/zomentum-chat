@@ -1,3 +1,29 @@
+<h1> Zomentum-Chat App</h1>
+
+<h2>In this assessment I have built a Chat Application for Zomentum. </h2>
+
+<h3>1. React.js is used for frontend. </h3>
+<h3>2. Firebase is used for backend/Database for storing chat messages,user information etc. </h3>
+<h3>3. Material Design/Material UI is used for avatars, icons, effects etc. </h3>
+
+
+
+<h1>How to run?</h1>
+
+<h3>1. Download the zipped folder. </h3>
+<h3>2. Open the folder in vscode .</h3>
+<h3>3. npm install and npm start </h3>
+
+
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
