@@ -24,7 +24,9 @@ https://drive.google.com/drive/folders/1HJ-KOtHA4CwwYhpj0X5HYFZz37_IWAAD?usp=sha
 <h3>3. npm install and npm start </h3>
 <h3>4. As the login page appears click on "SIGN IN WITH GOOGLE" button. </h3>
 <h3>5. For instance login only using this gmail id </h3 >  zomentumchat@gmail.com <h3> and password </h3>  zozozozo <h3> as these credentials are connected to google firebase for gmail authorization.</h3>
-
+<h3>6. As the chat UI appears, click on any user in the sidebar on the left to start a conversation. </h3>
+<h3>7. Now the chat window will appear, happy messaging. </h3>
+<h3>8. Also you can add a new user to chat with by clicking on "Add new Chat" option on top of the sidebar on left.  </h3>
 
 
 
